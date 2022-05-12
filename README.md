@@ -21,9 +21,9 @@
 </div>
 
 <br>
-
-“Não há nada nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu.” &ensp;<i>Ernest Hemingway</i><br>
+  
 “There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self.” &ensp;<i>Ernest Hemingway</i>
+“Não há nada nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu.” &ensp;<i>Ernest Hemingway</i><br>
 
 ## Últimos Projetos:
 
