@@ -30,3 +30,8 @@
 - []()<a href="https://luiabdiel.github.io/DoctorCare---NLW/" target="_blank">Projeto NLW - DoctorCare</a>
 - []()<a href="https://luiabdiel.github.io/Beautysalon---NLW//" target="_blank">Projeto NLW - Beautysalon</a>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
