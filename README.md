@@ -7,6 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 ![Luiggi GitHub stats](https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&theme=omni)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&langs_count=7&theme=omni"/>
 
 ## Tecnologias que utilizo 🖥️
 
@@ -22,5 +23,5 @@
 
 ## Últimos Projetos:
 
-- [](#)</br>
+- [](https://luiabdiel.github.io/Qr-code/)QR code</br>
 
