@@ -32,6 +32,8 @@
 - []()<a href="https://luiabdiel.github.io/Beautysalon---NLW/" target="_blank">Projeto NLW - Beautysalon</a>
 - []()<a href="https://luiabdiel.github.io/Card/" target="_blank">Card - Frontend Mentor</a>
 - []()<a href="https://luiabdiel.github.io/Qr-code/" target="_blank">Qr code - Frontend Mentor</a>
+- []()<a href="https://luiabdiel.github.io/Profile-card/" target="_blank">Profile Card - Frontend Mentor</a>  
+  
   
 <div align="center">
   
