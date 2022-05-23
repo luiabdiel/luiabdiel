@@ -1,4 +1,4 @@
-## Hi, I'm Luiggi 👋
+## Hi, I'm Luiggi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/luiabdiel">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&langs_count=7&theme=omni"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
 ## Tecnologias que utilizo 🖥️
