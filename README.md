@@ -34,7 +34,6 @@
 
 ## Últimos Projetos:
 
-<!-- - []()<a href="https://luiabdiel.github.io/DoctorCare---NLW/" _target>QR code</a> -->
 - []()<a href="https://luiabdiel.github.io/DoctorCare---NLW/" target="_blank">Projeto NLW - DoctorCare</a>
 - []()<a href="https://luiabdiel.github.io/Beautysalon---NLW/" target="_blank">Projeto NLW - Beautysalon</a>
 - []()<a href="https://luiabdiel.github.io/Danvo/" target="_blank">Danvo</a>
