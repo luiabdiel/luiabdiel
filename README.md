@@ -34,14 +34,8 @@
 
 ## Últimos Projetos:
 
-- []()<a href="https://luiabdiel.github.io/DoctorCare---NLW/" target="_blank">Projeto NLW - DoctorCare</a>
-- []()<a href="https://luiabdiel.github.io/Beautysalon---NLW/" target="_blank">Projeto NLW - Beautysalon</a>
-- []()<a href="https://luiabdiel.github.io/Danvo/" target="_blank">Danvo</a>
-- []()<a href="https://luiabdiel.github.io/Calculadora/" target="_blank">Calculadora</a> 
-- []()<a href="https://luiabdiel.github.io/churrascometro/" target="_blank">Churrascrômetro</a> 
-- []()<a href="https://luiabdiel.github.io/Card/" target="_blank">Card - Frontend Mentor</a>
-- []()<a href="https://luiabdiel.github.io/Profile-card/" target="_blank">Profile Card - Frontend Mentor</a>  
-- []()<a href="https://luiabdiel.github.io/Qr-code/" target="_blank">Qr code - Frontend Mentor</a>
+- []()<a href="https://luiabdiel.github.io/Google/" target="_blank">Google Clone</a>
+- []()<a href="https://luiabdiel.github.io/Calculadora/" target="_blank">Calculadora</a>
 
 <div align="center">
   
