@@ -1,47 +1,72 @@
-## Hi, I'm Luiggi! 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Be+Welcome!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px"> -->
-
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiggiabdiel/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luiggi.abdiel/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/l%C3%BCan.victor.15?si=b2a61de4b12846e2)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
-
-<!-- https://open.spotify.com/user/l%C3%BCan.victor.15?si=b2a61de4b12846e2 -->
-
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#) -->
-<!-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#) -->
-<!-- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiabdiel) -->
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF2E63&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luiggi+Abdiel;Software+Developer+Front-end;)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/luiabdiel">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&langs_count=7&theme=omni"/>
-</div>
+    <a href="https://github.com/luiabdiel">
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=72d4cd&icon_color=FF2E63&f&text_color=08D9D6&bg_color=0d1117"/>
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=72d4cd&icon_color=00bfbf&text_color=34e7e4&&bg_color=0d1117" />
+</div><br><br>
 
-## Tecnologias que utilizo 🖥️
+ <div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/luiggiabdiel/"     
+  >
+  <img
+    src="https://img.shields.io/badge/-Luiggi Abdiel-%230077B5?Style=for-the-badge&logo=linkedin&logoColor=white" alt="perfil do LinkedIn"
+    target="_blank" 
+  />        
+</div><br>
 
-<div style="display: inline_block"><br>
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5"/>
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"/>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</div>
+<div align="center">
 
-<br>
-  
-<!-- “There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self.” &ensp;<i>Ernest Hemingway</i> -->
-“Não há nada nobre em ser superior ao seu semelhante. A verdadeira nobreza é ser superior ao seu antigo eu.” &ensp;<i>Ernest Hemingway</i><br>
+## Lifelong learning
 
-## Últimos Projetos:
+<img
+  align="center"
+  alt="ícone-HTML5"
+  height="30"
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
+<img
+  align="center"
+  alt="ícone-CSS3"
+  height="30"
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
+<img
+  align="center"
+  alt="ícone-Js"
+  height="30"
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+  />
+<img 
+   align="center" 
+   alt="ícone-git" 
+   height="30" 
+   width="40" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+   />
+<img
+  align="center"
+  alt="ícone-react"
+  height="30"
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+  />
+<img
+  align="center"
+  alt="ícone-node"
+  height="30"
+  width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
+  />
 
-- []()<a href="https://luiabdiel.github.io/Google/" target="_blank">Google Clone</a>
-- []()<a href="https://luiabdiel.github.io/Calculadora/" target="_blank">Calculadora</a>
-- []()<a href="https://luiabdiel.github.io/Clock/" target="_blank">Relógio Online</a>
+  </div><br>
   
 <div align="center">
-  
-  ![Snake animation](https://github.com/luiabdiel/luiabdiel/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+  <br><p><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luiabdiel}/count.svg" /></p> 
+<br></div>
