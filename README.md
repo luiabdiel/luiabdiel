@@ -4,8 +4,8 @@
 
 <div align="center">
     <a href="https://github.com/luiabdiel">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=72d4cd&icon_color=FF2E63&f&text_color=08D9D6&bg_color=0d1117"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=72d4cd&icon_color=00bfbf&text_color=34e7e4&&bg_color=0d1117" />
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=72d4cd&icon_color=FF2E63&f&text_color=FFF&bg_color=0d1117"/>
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=72d4cd&text_color=FFF&&bg_color=0d1117" />
 </div><br><br>
 
  <div align="center">
