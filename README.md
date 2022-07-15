@@ -67,6 +67,40 @@
   </div><br>
   
 <div align="center">
-  <br><p><b>Visitors Count</b></p>  
+    
+  <br><p><b>Visitors Count</b></p>
+    
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luiabdiel}/count.svg" /></p> 
-<br></div>
+<br>
+     
+<hr>
+
+</div>
+   
+     
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://luiabdiel.github.io/shield/" target="_blank" title="Shield"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luiabdiel&repo=shield&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="left" href="https://github.com/DarlonHenrique/dtmoney" title="dtmoney"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=dtmoney&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/DarlonHenrique/Ig.news" target="_blank" title="Ig.news"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=Ig.news&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/DarlonHenrique/WatchMe" target="_blank" title="WatchMe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=WatchMe&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/DarlonHenrique/alurakut" target="_blank" title="Alurakut"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=alurakut&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/DarlonHenrique/to.do" target="_blank" title="to.do"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=to.do&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/DarlonHenrique/happy" target="_blank" title="Happy"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=happy&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/DarlonHenrique/bikcraft" target="_blank" title="bikcraft"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=bikcraft&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br><br><br><br><br><br>
+<h4 align="center">
+  <a href="https://github.com/DarlonHenrique?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4> -->
