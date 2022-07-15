@@ -76,14 +76,12 @@
 <hr>
 
 </div>
-   
-     
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://luiabdiel.github.io/shield/" target="_blank" title="Shield"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luiabdiel&repo=shield&theme=react&border_color=61dafb&border_radius=10"></a>
-<!--   <a align="left" href="https://github.com/DarlonHenrique/dtmoney" title="dtmoney"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=dtmoney&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/DarlonHenrique/rocketshoes" target="_blank" title="RocketShoes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=rocketshoes&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/DarlonHenrique/dtmoney" title="dtmoney"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DarlonHenrique&repo=dtmoney&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
@@ -103,4 +101,5 @@
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/DarlonHenrique?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
+</h4>
+ -->
