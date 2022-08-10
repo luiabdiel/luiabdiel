@@ -19,7 +19,7 @@
 
 <div align="center">
 
-## Lifelong learning
+## Lifelong learning!
 
 <img
   align="center"
@@ -56,8 +56,6 @@
   width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
   />
-  
- <!--
 <img
   align="center"
   alt="ícone-node"
@@ -65,7 +63,7 @@
   width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
   />
-  <--
+  
 
   </div><br>
   
