@@ -43,22 +43,17 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 </br>
 
-<div>
-    <a width="45%" href="https://github.com/luiabdiel"></a>
-    <img src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=72d4cd&icon_color=FF2E63&f&text_color=FFF&bg_color=0d1117"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=72d4cd&text_color=FFF&&bg_color=0d1117" />
+<div align="center">
+    <a href="https://github.com/luiabdiel">
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=0277bd&icon_color=e14e1d&f&text_color=dcdde1&bg_color=0d1117"/>
+    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=0277bd&icon_color=e14e1d&text_color=dcdde1&&bg_color=0d1117" />
+    </a>
 </div>
 
 </br>
 
 ### 📱 Sinta-se à vontade para conversar comigo!
-
-<div>
-  <a href="https://www.linkedin.com/in/luiggiabdiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luiggiabdieldev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/QzH84qrY8U" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-
+    
 </br>
 
 <p>
