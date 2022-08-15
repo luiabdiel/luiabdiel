@@ -11,7 +11,7 @@
 
 </br>
 
-- 🌱 Atualmente estou aprendendo <u>typescrit e react.</u>
+- 🌱 Atualmente estou aprendendo <u>typescript e react.</u>
 - 🎓 Estudante do ProgramadorBR, Matheus Battisti e Eker.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
