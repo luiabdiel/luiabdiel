@@ -52,7 +52,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 </br>
 
 <p>
-There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self.
+"There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self."
 </br>
   <i>Ernest Hemingway.</i>
 </p>
