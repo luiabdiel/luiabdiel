@@ -41,15 +41,6 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 </br>
 
-<div >
-    <a href="https://github.com/luiabdiel">
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luiabdiel&show_icons=true&count_private=true&hide_border=true&title_color=0277bd&icon_color=e14e1d&f&text_color=dcdde1&bg_color=0d1117"/>
-    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiabdiel&layout=compact&hide_border=true&title_color=0277bd&icon_color=e14e1d&text_color=dcdde1&&bg_color=0d1117" />
-    </a>
-</div>
-
-</br>
-
 ### 📱 Sinta-se à vontade para conversar comigo!
 
 <div>
