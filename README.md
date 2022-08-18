@@ -54,7 +54,11 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 <p>
 "There is nothing noble in being superior to your fellow man. True nobility is being superior to your former self."
 </br>
-  <i>Ernest Hemingway.</i>
+  <i>- Ernest Hemingway.</i>
+  
+  "To be normal is the ultimate aim of the unsuccessful."
+  </br>
+  <i>- Carl Jung</i>
 </p>
 
 
