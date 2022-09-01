@@ -39,7 +39,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 - 📊 Conseguir uma experiência na área.
 
-- 🏆 10 mil commits.
+- 🏆 1 mil commits.
 
 </br>
 
