@@ -1,6 +1,3 @@
-<h1 align="center">Bem-vindo a minha galeria de artes :)
-</h1>
-
 ### 🗽 Sobre mim:
 
 <p>
