@@ -24,7 +24,7 @@ src="https://i.pinimg.com/originals/c1/75/31/c17531cf598bcbe1a207b85658297b22.gi
 ### ☂️ Tecnologias:
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,styledcomponents,git,figma,vscode)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,styledcomponents,vite,git,figma,vscode)](https://skillicons.dev)
 
 </br>
 
