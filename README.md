@@ -16,7 +16,7 @@
 
 <div align="center">
 <img 
-src="https://i.pinimg.com/originals/c1/75/31/c17531cf598bcbe1a207b85658297b22.gif" width="100%" height="250"
+src="https://i.pinimg.com/originals/c1/75/31/c17531cf598bcbe1a207b85658297b22.gif" width="100%" height="250" alt="ao haru ride"
 />
 </div>
 </br>
