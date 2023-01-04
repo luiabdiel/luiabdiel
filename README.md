@@ -8,7 +8,7 @@
 
 </br>
 
-- 🌱 Atualmente estou aprendendo <u>typescript e react.</u>
+- 🌱 Minha stack atual: React, Typescript e Styled-components.
 - 🎓 Aprendiz do Eker.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
@@ -28,7 +28,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 </br>
 
-### 📊 Metas 2022/23:
+### 📊 Metas 2023:
 
 - 🌋 Expandir meu portfólio.
 
