@@ -2,13 +2,13 @@
 
 <p>
   <em>
-    Olá, meu nome é Luiggi Abdiel e eu sou um apaixonado em criar/transformar coisas. Descobri isso quando tirei meu primeiro 10 em um trabalho de informática, que consistia em tirar fotos de algo e modificá-las utilizando o photoshop. Pesquisando mais sobre o mundo do design conheci o desenvolvimento web que me deixou aficionado pela área e me fez querer ser um dev front-end.
+    Olá, meu nome é Luiggi Abdiel e eu sou um apaixonado em criar/transformar coisas. Descobri isso quando tirei meu primeiro 10 em um trabalho de informática, que consistia em tirar fotos de algo e modificá-las utilizando o photoshop. Pesquisando mais sobre o mundo do design conheci o desenvolvimento web que me deixou aficionado pela área e me fez querer ser um desenvolvedor de software.
   </em>
 </p>
 
 </br>
 
-- 🌱 Minha stack atual: React, Typescript e Styled-components.
+- 🌱 Minha stack atual: C#, asp.net, blazor.
 - 🎓 Aprendiz do Eker.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
