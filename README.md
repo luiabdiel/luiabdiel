@@ -2,13 +2,13 @@
 
 <p>
   <em>
-    Olá, meu nome é Luiggi Abdiel e eu sou um apaixonado em criar/transformar coisas. Descobri isso quando tirei meu primeiro 10 em um trabalho de informática, que consistia em tirar fotos de algo e modificá-las utilizando o photoshop. Pesquisando mais sobre o mundo do design conheci o desenvolvimento web que me deixou aficionado pela área e me fez querer ser um desenvolvedor de software.
+    Olá, meu nome é Luiggi Abdiel, sou paixão por programação e tecnologia, tenho trabalhado em projetos pessoais para desenvolver minhas habilidades em React, JavaScript e TypeScript.
   </em>
 </p>
 
 </br>
 
-- 🌱 Minha stack atual: C#, asp.net, blazor.
+- 🌱 Minha stack atual: React, JavaScript, TypeScript.
 - 🎓 Aprendiz do Eker.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
@@ -36,7 +36,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 - 📊 Conseguir uma experiência na área.
 
-- 🏆 1 mil commits.
+- 🏆 10 mil commits.
 
 </br>
 
