@@ -2,13 +2,13 @@
 
 <p>
   <em>
-    Olá, meu nome é Luiggi Abdiel, sou um desenvolvedor web apaixonado por programação e tecnologia. Embora não tenha experiência formal na área de desenvolvimento web, venho trabalhando em projetos pessoais para aprimorar minhas habilidades em React, JavaScript e TypeScript.
+    Olá, meu nome é Luiggi Abdiel, sou um desenvolvedor web apaixonado por programação e tecnologia. Embora não tenha experiência formal na área de desenvolvimento web, venho trabalhando em projetos pessoais para aprimorar minhas habilidades em React, Node, JavaScript e TypeScript.
   </em>
 </p>
 
 </br>
 
-- 🌱 Minha stack atual: React, JavaScript, TypeScript.
+- 🌱 Minha stack atual: React, Node, JavaScript, TypeScript.
 - 🎓 Aprendiz do Eker.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
