@@ -1,9 +1,7 @@
 ### 🗽 Sobre mim:
 
 <p>
-  <em>
-    Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor web apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em React, NodeJS, JavaScript e TypeScript, sempre buscando aplicar boas práticas de clean code e o princípio KISS.
-  </em>
+Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor web apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em <strong>React</strong>, <strong>NodeJS</strong>, <strong>JavaScript</strong> e <strong>TypeScript</strong>, sempre buscando aplicar boas práticas de <strong>clean code</strong> e o princípio <strong>KISS</strong>.
 </p>
 
 </br>
