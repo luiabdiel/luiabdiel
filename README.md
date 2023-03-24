@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    Olá, meu nome é Luiggi Abdiel, sou um desenvolvedor web apaixonado por programação e tecnologia. Embora não tenha experiência formal na área de desenvolvimento web, venho trabalhando em projetos pessoais para aprimorar minhas habilidades em React, Node, JavaScript e TypeScript.
+    Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor web apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em React, NodeJS, JavaScript e TypeScript, sempre buscando aplicar boas práticas de clean code e o princípio KISS.
   </em>
 </p>
 
