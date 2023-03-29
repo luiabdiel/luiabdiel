@@ -7,7 +7,7 @@ Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sist
 </br>
 
 - 🌱 Minha stack atual: React, Node, JavaScript, TypeScript.
-- 🎓 Aprendiz do Eker.
+- 🎓 Aprendiz do Eker, Google e Youtube.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
 </br>
