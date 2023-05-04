@@ -1,12 +1,12 @@
 ### 🗽 Sobre mim:
 
 <p>
-Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor web apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em <strong>React</strong>, <strong>NodeJS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>C#</strong>, sempre buscando aplicar boas práticas de <strong>clean code</strong> e o princípio <strong>KISS</strong>,
+Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor de software apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em <strong>React</strong>, <strong>NodeJS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>Golang</strong>, sempre buscando aplicar boas práticas de <strong>clean code</strong> e o princípio <strong>KISS</strong>,
 </p>
 
 </br>
 
-- 🌱 Minha stack atual: React, Node, JavaScript, TypeScript, C#.
+- 🌱 Minha stack atual: React, Node, JavaScript, TypeScript, Golang.
 - 🎓 Aprendiz do Eker, Google e Youtube.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
