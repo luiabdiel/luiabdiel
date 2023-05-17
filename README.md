@@ -14,7 +14,7 @@ Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sist
 
 <div align="center">
 <img 
-src="https://i.pinimg.com/originals/c1/75/31/c17531cf598bcbe1a207b85658297b22.gif" width="100%" height="250" alt="ao haru ride"
+src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" height="250" alt="ao haru ride"
 />
 </div>
 </br>
@@ -31,6 +31,7 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
