@@ -1,12 +1,14 @@
 ### 🗽 Sobre mim:
 
 <p>
-Olá, meu nome é Luiggi Abdiel, estudante de análise e desenvolvimento de sistemas na Uninter e um desenvolvedor de software apaixonado por programação e tecnologia. Venho trabalhando em projetos pessoais para aprimorar minhas habilidades em <strong>React</strong>, <strong>NodeJS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong> e <strong>Golang</strong>, sempre buscando aplicar boas práticas de <strong>clean code</strong> e o princípio <strong>KISS</strong>,
+Olá! Sou um desenvolvedor de software atualmente cursando Análise e Desenvolvimento de Sistemas. Há cerca de um ano, mergulhei no mundo da programação e estou entusiasmado em enfrentar novos desafios em busca de crescimento e aprendizado contínuo.
+
+Meu GitHub é um verdadeiro laboratório onde compartilho projetos pessoais utilizando diversas linguagens, como JavaScript, TypeScript, Java, C#, Python e Golang. Neles, aplico as melhores práticas de clean code e o princípio KISS, sempre buscando qualidade e eficiência em cada linha de código que escrevo.
 </p>
 
 </br>
 
-- 🌱 Minha stack atual: React, Node, JavaScript, TypeScript, Golang.
+- 🌱 Minha stack atual: React, Node.js, JavaScript, TypeScript, C#, Java.
 - 🎓 Aprendiz do Eker, Google e Youtube.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
