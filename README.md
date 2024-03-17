@@ -54,18 +54,6 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 </br>
 
-### 📊 Metas 2025:
-
-- 🌋 Expandir meu portfólio ✅
-
-- 🏮 Contribuir em projetos open-source ✅
-
-- 📊 Conseguir uma experiência na área ✅
-
-- 🏆 10 mil commits
-
-</br>
-
 ### 📱 Sinta-se à vontade para conversar comigo!
 
 <div>
