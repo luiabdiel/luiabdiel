@@ -9,7 +9,7 @@ Meu GitHub é um verdadeiro laboratório onde compartilho projetos pessoais util
 </br>
 
 - 🌱 Minha stack atual: React, Node.js, Spring Boot, JavaScript, TypeScrip, Java.
-- 🎓 Aprendiz do Eker, Vitor, Google e Youtube.
+- 🎓 Aprendiz do Google e Youtube.
 - 📬 Meu email: luiggiabdieldev@gmail.com
 
 </br>
